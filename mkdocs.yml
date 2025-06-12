@@ -1,0 +1,8 @@
+site_name: 310 新手村
+
+repo_name: 310-docs
+repo_url: https://github.com/310GeekClub/310-docs
+
+theme:
+  name: material
+  language: zh
