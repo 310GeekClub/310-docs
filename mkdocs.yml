@@ -7,3 +7,8 @@ repo_url: https://github.com/310GeekClub/310-docs
 theme:
   name: material
   language: zh
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
